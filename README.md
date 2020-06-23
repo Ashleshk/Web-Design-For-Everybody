@@ -26,3 +26,9 @@ This Specialization covers how to write syntactically correct HTML5 and CSS3, an
 
 5. Web Design for Everybody Capstone
 > Upon completion of this course students will feel comfortable creating and/or updating existing front-end sites, utilizing existing frameworks, and testing sites for accessibility compliance.
+
+## Provided By
+![University of Michigan logo](https://github.com/Ashleshk/Web-Design-For-Everybody/blob/master/michiganlogo.jpg)
+
+University of Michigan
+The mission of the University of Michigan is to serve the people of Michigan and the world through preeminence in creating, communicating, preserving and applying knowledge, art, and academic values, and in developing leaders and citizens who will challenge the present and enrich the future.
