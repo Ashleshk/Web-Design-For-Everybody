@@ -25,6 +25,6 @@ Clinical Professor,
 School of Information
 
 ## References 
-1. Course Link - Coursera
+1. Course Link - [Coursera](https://www.coursera.org/learn/html?specialization=web-design)
 2. Certificattion Link -[In Github](https://github.com/Ashleshk/Web-Design-For-Everybody/blob/master/Course-1%20Introduction%20to%20HTML5/Introduction%20to%20HTML5.pdf)
-3. On Coursera Certificate Link - Accomplishment
+3. On Coursera Certificate Link - [Accomplishment](https://coursera.org/share/3447983b13321a4052127c6fead352f4)
