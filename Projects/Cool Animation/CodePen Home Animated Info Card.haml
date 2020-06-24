@@ -1,0 +1,40 @@
+#wrap
+ %input{:type => "checkbox"}/
+ .back
+  %b &larr;
+ .frame
+  %input#rad1{:checked => "checked", :name => "rad", :type => "radio"}/
+  %input#rad2{:name => "rad", :type => "radio"}/
+  %input#rad3{ :name => "rad", :type => "radio"}/
+  -3.times do
+   .nav
+  .indicator
+  .inner
+   .content
+    %h1{"data-splitting" => "chars"} Nulla facilisi maecenas malesuada
+    %p Donec orci lectus, aliquam ut, faucibus non, euismod id, nulla. Integer tincidunt. Praesent turpis. Nulla neque dolor, sagittis eget, iaculis quis, molestie non, velit.
+   .content
+    %h1{"data-splitting" => "chars"} Pellentesque commodo eros
+    %p Morbi ac felis. Sed aliquam ultrices mauris. Quisque id odio. Cras sagittis. Fusce vulputate eleifend sapien.
+   .content
+    %h1{"data-splitting" => "chars"} Fusce risus nisl viverra
+    %p Vestibulum rutrum, mi nec elementum vehicula, eros quam gravida nisl, id fringilla neque ante vel mi. Quisque id odio. Fusce fermentum.
+   .more
+    -3.times do
+     %b &rarr;
+   .images
+    -3.times do
+     %div
+      .image
+  .box
+   .internal
+    %p Sed mollis, eros et ultrices tempus, mauris ipsum aliquam libero, non adipiscing dolor urna a orci. Cras varius. Vivamus laoreet. Donec vitae sapien ut libero venenatis faucibus. Vestibulum turpis sem, aliquet eget, lobortis pellentesque, rutrum eu, nisl.
+    .image
+   .internal
+    %p Phasellus viverra nulla ut metus varius laoreet. Vestibulum turpis sem, aliquet eget, lobortis pellentesque, rutrum eu, nisl. Duis lobortis massa imperdiet quam. Aenean vulputate eleifend tellus. Morbi mollis tellus ac sapien.
+    .image
+   .internal
+    %p Praesent metus tellus, elementum eu, semper a, adipiscing nec, purus. Aenean commodo ligula eget dolor. Vestibulum fringilla pede sit amet augue. Fusce convallis metus id felis luctus adipiscing. Ut id nisl quis enim dignissim sagittis. 
+    .image
+   
+ 
