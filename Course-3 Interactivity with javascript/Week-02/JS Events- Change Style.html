@@ -1,0 +1,30 @@
+	<link rel="stylesheet" href="style.css">
+    <h1>Changing the Style</h1>
+	<p>JavaScript can change the style of an HTML element.</p>
+
+	<button type="button" onclick="openMe()">Open!</button>
+	<button type="button" onclick="closeMe()">Close!</button>
+
+	<p id="demo">Extra details...You can open and close this paragraph using the buttons above.</p>
+
+<script>
+function closeMe(){
+      // Find the element
+   		x=document.getElementById("demo");
+       //Option 1: Change the style attribute directly
+   		x.style.display="none";
+  
+      //Option 2: Change the class
+   		 // x.className="closed";
+	}
+
+function openMe(){
+      // Find the element
+   		x=document.getElementById("demo");
+      //Option 1: Change the style attribute directly
+   		 x.style.display="block";
+      
+      //Option 2: Change the class
+   		 // x.className="open";
+	}
+</script>
