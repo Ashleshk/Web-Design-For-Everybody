@@ -1,0 +1,11 @@
+<link rel="stylesheet" href="css/validate.css">
+<script src="js/validate2.js"></script>
+<form>
+  <label>Preferred email address:
+  		<input type="email" id="email_addr" name="email1" value = "me@me.com" required></label>
+
+  	<label>Repeat email address:
+  		<input type="email" id="email_repeat" name="email2" required onchange="return check()"></label>
+
+  <input type = 'submit' value = "Confirm Emails!" onclick = "return check();">
+</form>  
