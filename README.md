@@ -37,6 +37,10 @@ The mission of the University of Michigan is to serve the people of Michigan and
 ![Charles Russell Severance](https://github.com/Ashleshk/Web-Design-For-Everybody/blob/master/Charles-Severance.jpeg)
 
 **TOP INSTRUCTOR**
-Charles Russell Severance
-Clinical Professor,
-School of Information
+**Charles Russell Severance**
+Clinical Professor, School of Information
+
+![Colleen van Lent](https://github.com/Ashleshk/Web-Design-For-Everybody/blob/master/van_lent_colleen.jpg)
+
+**Colleen van Lent, Ph.D.**
+Lecturer, School of Information
