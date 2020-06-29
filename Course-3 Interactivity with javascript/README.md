@@ -11,6 +11,17 @@ This course will introduce you to the basics of the JavaScript language.  We wil
 Taught by:  Colleen van Lent, Ph.D., Lecturer
 School of Information
 
+## Course Structure
+* Week-01 : Introduction to JavaScript
+* Week-02 : Reacting to Your Audience
+* Week-03 : Arrays and Looping
+* Week-04 : Validating Form Data
+
+## SKILLS YOU WILL GAIN
+* Document Object Model (DOM)
+* JavaScript
+* Web Development
+
 ## Provided By
 ![University of Michigan logo](https://github.com/Ashleshk/Web-Design-For-Everybody/blob/master/michiganlogo.jpg)
 
@@ -31,11 +42,6 @@ School of Information
 **Colleen van Lent, Ph.D.**
 Lecturer, School of Information
 
-## Course Structure
-* Week-01 : Introduction to JavaScript
-* Week-02 : Reacting to Your Audience
-* Week-03 : Arrays and Looping
-* Week-04 : Validating Form Data
 
 
 ## References 
