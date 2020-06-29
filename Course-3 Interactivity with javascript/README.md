@@ -2,12 +2,14 @@
  Learn to Design and Create Websites Build a responsive and accessible web portfolio using HTML5, CSS3, and JavaScrip
 
 
-## Introduction to CSS3
+## Interactivity with JavaScript
 ### About this Course
-The web today is almost unrecognizable from the early days of white pages with lists of blue links.  Now, sites are designed with complex layouts, unique fonts, and customized color schemes.   This course will show you the basics of Cascading Style Sheets (CSS3).  The emphasis will be on learning how to write CSS rules, how to test code, and how to establish good programming habits.     
+If you want to take your website to the next level, the ability to incorporate interactivity is a must.    But adding some of these types of capabilities requires a stronger programming language than HTML5 or CSS3, and JavaScript can provide just what you need.  With just a basic understanding of the language, you can create a page that will react to common events such as page loads, mouse clicks & movements, and even keyboard input.      
 
-When done correctly, the styling of a webpage can take enhance your page.   When done incorrectly the result can be worse than no styling at all.    To ensure that your sites do not put up  barriers for people with cognitive and/or physical disabilities, you will learn how to evaluate pages using the standardized POUR accessibility guidelines.    Upon completion of the course, learners will be able to sketch a design for a given HTML page.  Using that design they will use CSS to implement the design by adding fonts, colors, and  layouts. 
-
+This course will introduce you to the basics of the JavaScript language.  We will cover concepts such as variables, looping, functions, and even a little bit about debugging tools.  You will understand how the Document Object Model (DOM) is used by JavaScript to identify and modify specific parts of your page.  After the course, learners will be able to react to DOM Events and dynamically alter the contents and style of their page.   The class will culminate in a  final project - the creation of an interactive HTML5 form that accepts and verifies input.
+ 
+Taught by:  Colleen van Lent, Ph.D., Lecturer
+School of Information
 
 ## Provided By
 ![University of Michigan logo](https://github.com/Ashleshk/Web-Design-For-Everybody/blob/master/michiganlogo.jpg)
@@ -18,18 +20,23 @@ The mission of the University of Michigan is to serve the people of Michigan and
 ## Instructor
 ![Charles Russell Severance](https://github.com/Ashleshk/Web-Design-For-Everybody/blob/master/Charles-Severance.jpeg)
 
-> Taught by:  Colleen van Lent, Ph.D., Lecturer, School of Information
 
 **TOP INSTRUCTOR**
 Charles Russell Severance
 Clinical Professor,
 School of Information
 
+![Colleen van Lent](https://github.com/Ashleshk/Web-Design-For-Everybody/blob/master/van_lent_colleen.jpg)
+
+**Colleen van Lent, Ph.D.**
+Lecturer, School of Information
+
 ## Course Structure
-* Week-01 : Getting Started with Simple Styling
-* Week-02 : Advanced Styling
-* Week-03 : Pseudo-classes, Pseudo-elements, Transitions, and Positioning
-* Week-04 : Putting it All Together
+* Week-01 : Introduction to JavaScript
+* Week-02 : Reacting to Your Audience
+* Week-03 : Arrays and Looping
+* Week-04 : Validating Form Data
+
 
 ## References 
 1. Course Link - [Coursera](https://www.coursera.org/learn/introcss?specialization=web-design)
