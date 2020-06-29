@@ -45,6 +45,6 @@ Lecturer, School of Information
 
 
 ## References 
-1. Course Link - [Coursera](https://www.coursera.org/learn/introcss?specialization=web-design)
-2. Certificattion Link -[In Github](https://github.com/Ashleshk/Web-Design-For-Everybody/blob/master/Introduction%20to%20CSS3.pdf)
-3. On Coursera Certificate Link - [Accomplishment](https://coursera.org/share/04a219fe9be05848980befb762c06801)
+1. Course Link - [Coursera](https://www.coursera.org/learn/javascript)
+2. Certificattion Link -[In Github](https://github.com/Ashleshk/Web-Design-For-Everybody/blob/master/Interactivity%20with%20JavaScript.pdf)
+3. On Coursera Certificate Link - [Accomplishment](https://coursera.org/share/d384694d45336ddccd5e296e45734b7a)
