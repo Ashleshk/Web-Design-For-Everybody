@@ -45,6 +45,6 @@ Lecturer, School of Information
 
 
 ## References 
-1. Course Link - [Coursera](https://www.coursera.org/learn/javascript)
-2. Certificattion Link -[In Github](https://github.com/Ashleshk/Web-Design-For-Everybody/blob/master/Interactivity%20with%20JavaScript.pdf)
-3. On Coursera Certificate Link - [Accomplishment](https://coursera.org/share/d384694d45336ddccd5e296e45734b7a)
+1. Course Link - [Coursera](https://www.coursera.org/learn/responsivedesign)
+2. Certificattion Link -[In Github](https://github.com/Ashleshk/Web-Design-For-Everybody/blob/master/Advanced%20Styling%20with%20Responsive%20Design.pdf)
+3. On Coursera Certificate Link - [Accomplishment](https://coursera.org/share/b8ff685f6a095c657f74052c8da28a57)
