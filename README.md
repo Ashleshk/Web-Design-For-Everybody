@@ -25,6 +25,9 @@ This Specialization covers how to write syntactically correct HTML5 and CSS3, an
 * Document Object Model (DOM)
 * Bootstrap (Front-End Framework)
 
+## Certificate 
+* [**Link**](https://www.coursera.org/account/accomplishments/specialization/Y92RNPAUMMVH)
+
 ## Courses
 * Introduction to HTML5
 * Introduction to CSS3
