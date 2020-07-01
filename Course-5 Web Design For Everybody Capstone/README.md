@@ -2,28 +2,21 @@
  Learn to Design and Create Websites Build a responsive and accessible web portfolio using HTML5, CSS3, and JavaScrip
 
 
-## Advanced Styling with Responsive Design
+## Web design For EveryBody Capstone
 ### About this Course
-It used to be the case that everyone viewed webpages on about the same size screen.  But with the explosion of the use of smartphones to access the Internet, the landscape of design has completely changed.  People viewing your site will now expect that it will perform regardless of the platform (smartphone, tablet, laptop, or desktop computer).  This ability to respond to any platform is called responsive design.
-
-This course will expand upon the basic knowledge of CSS3 to include topics such as wireframes, fluid design, media queries, and the use of existing styling paradigms such as Bootstrap.  After the course, learners will be able to:
-** Explain the mobile-first paradigm and the importance of wireframes in the design phase
-** Create sites that behave across a range of platforms
-** Utilize existing design frameworks such as Bootstrap
  
-Taught by:  Colleen van Lent, Ph.D., Lecturer
-School of Information
+The capstone will develop a professional-quality web portfolio.  Students will demonstrate the ability to design and implement a responsive site for a minimum of three platforms.  Adherence to validation and accessibility standards will be required. The evolving student implementations will be reviewed each week by capstone peers and teaching assistants to make sure that the student keeps up with the agenda of the course. 
 
-## Course Structure
-* Week-01 : Style with Responsive Design
-* Week-02 : Basic Concepts
-* Week-03 : Use Existing Framework
-* Week-04 : Experiment
+Upon completion of this course students will feel comfortable creating and/or updating existing front-end sites, utilizing existing frameworks, and testing sites for accessibility compliance.
+
+This course is only open to students who have completed the first four courses in the Web Design for Everybody specialization: Introduction to HTML5, Introduction to CSS3, Interactivity with JavaScript, and Advanced Styling with Responsive Design.
 
 ## SKILLS YOU WILL GAIN
-* Document Object Model (DOM)
+* Web Design
+* Html
 * JavaScript
-* Web Development
+* Cascading Style Sheets (CCS)
+
 
 ## Provided By
 ![University of Michigan logo](https://github.com/Ashleshk/Web-Design-For-Everybody/blob/master/michiganlogo.jpg)
@@ -49,5 +42,5 @@ Lecturer, School of Information
 
 ## References 
 1. Course Link - [Coursera](https://www.coursera.org/learn/responsivedesign)
-2. Certificattion Link -[In Github](https://github.com/Ashleshk/Web-Design-For-Everybody/blob/master/Advanced%20Styling%20with%20Responsive%20Design.pdf)
+2. Certificattion Link -[In Github](https://github.com/Ashleshk/Web-Design-For-Everybody/blob/master/Web%20Design%20for%20EveryBody%20Capstone.pdf)
 3. On Coursera Certificate Link - [Accomplishment](https://coursera.org/share/b8ff685f6a095c657f74052c8da28a57)
