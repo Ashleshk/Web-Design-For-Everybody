@@ -2,20 +2,23 @@
  Learn to Design and Create Websites Build a responsive and accessible web portfolio using HTML5, CSS3, and JavaScrip
 
 
-## Interactivity with JavaScript
+## Advanced Styling with Responsive Design
 ### About this Course
-If you want to take your website to the next level, the ability to incorporate interactivity is a must.    But adding some of these types of capabilities requires a stronger programming language than HTML5 or CSS3, and JavaScript can provide just what you need.  With just a basic understanding of the language, you can create a page that will react to common events such as page loads, mouse clicks & movements, and even keyboard input.      
+It used to be the case that everyone viewed webpages on about the same size screen.  But with the explosion of the use of smartphones to access the Internet, the landscape of design has completely changed.  People viewing your site will now expect that it will perform regardless of the platform (smartphone, tablet, laptop, or desktop computer).  This ability to respond to any platform is called responsive design.
 
-This course will introduce you to the basics of the JavaScript language.  We will cover concepts such as variables, looping, functions, and even a little bit about debugging tools.  You will understand how the Document Object Model (DOM) is used by JavaScript to identify and modify specific parts of your page.  After the course, learners will be able to react to DOM Events and dynamically alter the contents and style of their page.   The class will culminate in a  final project - the creation of an interactive HTML5 form that accepts and verifies input.
+This course will expand upon the basic knowledge of CSS3 to include topics such as wireframes, fluid design, media queries, and the use of existing styling paradigms such as Bootstrap.  After the course, learners will be able to:
+** Explain the mobile-first paradigm and the importance of wireframes in the design phase
+** Create sites that behave across a range of platforms
+** Utilize existing design frameworks such as Bootstrap
  
 Taught by:  Colleen van Lent, Ph.D., Lecturer
 School of Information
 
 ## Course Structure
-* Week-01 : Introduction to JavaScript
-* Week-02 : Reacting to Your Audience
-* Week-03 : Arrays and Looping
-* Week-04 : Validating Form Data
+* Week-01 : Style with Responsive Design
+* Week-02 : Basic Concepts
+* Week-03 : Use Existing Framework
+* Week-04 : Experiment
 
 ## SKILLS YOU WILL GAIN
 * Document Object Model (DOM)
