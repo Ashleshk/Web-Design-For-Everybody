@@ -41,6 +41,7 @@ Lecturer, School of Information
 
 
 ## References 
-1. Course Link - [Coursera](https://www.coursera.org/learn/responsivedesign)
+1. Course Link - [Coursera](https://www.coursera.org/learn/web-design-project?#about)
 2. Certificattion Link -[In Github](https://github.com/Ashleshk/Web-Design-For-Everybody/blob/master/Web%20Design%20for%20EveryBody%20Capstone.pdf)
-3. On Coursera Certificate Link - [Accomplishment](https://coursera.org/share/b8ff685f6a095c657f74052c8da28a57)
+3. On Coursera Certificate Link - [Accomplishment](https://coursera.org/share/28da0228e4dfea6d5096d351f3eb2f2a)
+4. [Specialization](https://www.coursera.org/account/accomplishments/specialization/Y92RNPAUMMVH)
